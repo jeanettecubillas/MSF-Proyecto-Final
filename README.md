@@ -9,7 +9,7 @@ Jeanette Cubillas Arteaga; Kenya Fernanda Rodriguez Castro.
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. 
 Email: l20212948@tectijuana.edu.mx; kenya.rodriguez201@tectijuana.edu.mx.
 
-## Objetivos general
+## Objetivo general
 Diseñar un gemelo digital de un sistema fisiologico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control.
 
 ## Actividades
